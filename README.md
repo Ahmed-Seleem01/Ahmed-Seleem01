@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm [Ahmed Seleem], a dedicated Frontend React Developer with a passion for creating elegant and responsive web applications. 🚀
+I'm Ahmed Seleem, a dedicated Frontend React Developer with a passion for creating elegant and responsive web applications. 🚀
 
 🔭 **I’m currently working on ...**
 - build fully responsive websites.
@@ -10,7 +10,7 @@ I'm [Ahmed Seleem], a dedicated Frontend React Developer with a passion for crea
 - Sass
 
 💼 **Experience:**
-- [Your current or past roles, briefly]
+
 
 🚀 **Projects:**
 - [Project 1](https://github.com/yourusername/project-1): Brief description.
@@ -23,7 +23,7 @@ I'm [Ahmed Seleem], a dedicated Frontend React Developer with a passion for crea
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a friendly chat! 😊
 
---
+---
 
 🔧 **Tech Stack:**
 
