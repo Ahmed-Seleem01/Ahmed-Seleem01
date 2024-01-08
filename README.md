@@ -7,7 +7,7 @@ I'm [Ahmed Seleem], a dedicated Frontend React Developer with a passion for crea
 - Enhance my git knowledge
 
 🌱 **Currently Learning:**
-- 
+
 
 💼 **Experience:**
 - [Your current or past roles, briefly]
@@ -22,6 +22,8 @@ I'm [Ahmed Seleem], a dedicated Frontend React Developer with a passion for crea
 - Email: ahmdseleem.c@gmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a friendly chat! 😊
+
+--
 
 🔧 **Tech Stack:**
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
