@@ -7,17 +7,17 @@ I'm Ahmed Seleem, a dedicated Frontend React Developer with a passion for creati
 - Enhance my git knowledge
 
 🌱 **Currently Learning:**
-- Sass
+- React
 
 💼 **Experience:**
 
 
 🚀 **Projects:**
-- [Project 1](https://github.com/yourusername/project-1): Brief description.
-- [Project 2](https://github.com/yourusername/project-2): Brief description.
+- [Todo App](https://github.com/Ahmed-Seleem01/todo-app): Create your todos and finish them. This app make it easier and fun.
+- [Note App](https://github.com/Ahmed-Seleem01/note-app): This is a simple app to add your important notes with awesome features.
 
 📫 **Let's Connect:**
-- LinkedIn: [Ahmed Seleem](https://github.com/Ahmed-Seleem01)
+- LinkedIn: [Ahmed Seleem](https://www.linkedin.com/in/ahmedseleem1/)
 - Portfolio: [Ahmed Seleem](https://www.yourportfolio.com)
 - Email: ahmdseleem.c@gmail.com
 
