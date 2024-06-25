@@ -13,12 +13,13 @@ I'm Ahmed Seleem, a dedicated Frontend React Developer with a passion for creati
 
 
 🚀 **Projects:**
+- [E-Commerce App](https://e-commerce-react-pied.vercel.app/): Fully feature Real time e-commerce app linked with firebase.
 - [Todo App](https://github.com/Ahmed-Seleem01/todo-app): Create your todos and finish them. This app make it easier and fun.
 - [Note App](https://github.com/Ahmed-Seleem01/note-app): This is a simple app to add your important notes with awesome features.
 
 📫 **Let's Connect:**
 - LinkedIn: [Ahmed Seleem](https://www.linkedin.com/in/ahmedseleem1/)
-- Portfolio: [Ahmed Seleem](https://www.yourportfolio.com)
+- Portfolio: [Ahmed Seleem](https://ahmed-seleem01.github.io/portfolio/)
 - Email: ahmdseleem.c@gmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a friendly chat! 😊
